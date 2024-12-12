@@ -1,4 +1,4 @@
-# Obsidian Sample Plugin
+# Obsidian: Link This
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
